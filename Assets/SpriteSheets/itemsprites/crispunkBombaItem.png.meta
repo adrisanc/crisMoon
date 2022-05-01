@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: e20c176bc50ff7d459cd649a6afc3a98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1124753864565755797
+    second: crispunkBombaItem_0
+  - first:
+      213: 2970766006737203354
+    second: crispunkBombaItem_1
+  - first:
+      213: -7918349101630020626
+    second: crispunkBombaItem_2
+  - first:
+      213: 1244247014323261527
+    second: crispunkBombaItem_3
+  - first:
+      213: 2276682750739980347
+    second: crispunkBombaItem_4
+  - first:
+      213: -1551166085599097843
+    second: crispunkBombaItem_5
+  - first:
+      213: -4432171091403054385
+    second: crispunkBombaItem_6
+  - first:
+      213: 8770419316906178131
+    second: crispunkBombaItem_7
+  - first:
+      213: -259236265140561170
+    second: crispunkBombaItem_8
+  - first:
+      213: 690258523854453548
+    second: crispunkBombaItem_9
+  - first:
+      213: -4854374334804101368
+    second: crispunkBombaItem_10
+  - first:
+      213: -3242996602355317898
+    second: crispunkBombaItem_11
+  - first:
+      213: 7030146859703876950
+    second: crispunkBombaItem_12
+  - first:
+      213: 1353717416210727103
+    second: crispunkBombaItem_13
+  - first:
+      213: 5642617908087328673
+    second: crispunkBombaItem_14
+  - first:
+      213: 8071294168402546763
+    second: crispunkBombaItem_15
+  - first:
+      213: 5681587033459655137
+    second: crispunkBombaItem_16
+  - first:
+      213: 6025848736837391309
+    second: crispunkBombaItem_17
+  - first:
+      213: 4480043806839568902
+    second: crispunkBombaItem_18
+  - first:
+      213: -7696197350011456534
+    second: crispunkBombaItem_19
+  - first:
+      213: 756154672774278758
+    second: crispunkBombaItem_20
+  - first:
+      213: 6208502723471388180
+    second: crispunkBombaItem_21
+  - first:
+      213: -7823049192016042612
+    second: crispunkBombaItem_22
+  - first:
+      213: -8951485761815986355
+    second: crispunkBombaItem_23
+  - first:
+      213: -738077102610265904
+    second: crispunkBombaItem_24
+  - first:
+      213: 5227073926483201733
+    second: crispunkBombaItem_25
+  - first:
+      213: -8050057796607719534
+    second: crispunkBombaItem_26
+  - first:
+      213: 2536730466364489913
+    second: crispunkBombaItem_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crispunkBombaItem_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4433
+        width: 175
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b607fc2c1521460f0800000000000000
+      internalID: -1124753864565755797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_1
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4433
+        width: 176
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90706e71f74a3920800000000000000
+      internalID: 2970766006737203354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_2
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 4433
+        width: 173
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee32fcdf17f5c1290800000000000000
+      internalID: -7918349101630020626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_3
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 4433
+        width: 175
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75014953114744110800000000000000
+      internalID: 1244247014323261527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_4
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 4433
+        width: 177
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ad1046e6689f10800000000000000
+      internalID: 2276682750739980347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_5
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 4431
+        width: 179
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c8b30e9a6297ae0800000000000000
+      internalID: -1551166085599097843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3431
+        width: 180
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc26a2100e3cd72c0800000000000000
+      internalID: -4432171091403054385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_7
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3431
+        width: 181
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ba6ba6e9c6b970800000000000000
+      internalID: 8770419316906178131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_8
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3429
+        width: 179
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead5678df1076cf0800000000000000
+      internalID: -259236265140561170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_9
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 3429
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb785687a449900800000000000000
+      internalID: 690258523854453548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_10
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 3426
+        width: 177
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077a37134cc1acb0800000000000000
+      internalID: -4854374334804101368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_11
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 3423
+        width: 174
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67300d4b5cf8ef2d0800000000000000
+      internalID: -3242996602355317898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2421
+        width: 172
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3a735259109160800000000000000
+      internalID: 7030146859703876950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_13
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2424
+        width: 167
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0008751de59c210800000000000000
+      internalID: 1353717416210727103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_14
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2424
+        width: 164
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8dce671b9e4e40800000000000000
+      internalID: 5642617908087328673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_15
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 2421
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d059584ff20070800000000000000
+      internalID: 8071294168402546763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_16
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 2421
+        width: 158
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e104d9fd4d09de40800000000000000
+      internalID: 5681587033459655137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_17
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 2424
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3dd65ff7d10a350800000000000000
+      internalID: 6025848736837391309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_18
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1428
+        width: 156
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7cd42b105c2e30800000000000000
+      internalID: 4480043806839568902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_19
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1431
+        width: 152
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b34f494d913590800000000000000
+      internalID: -7696197350011456534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_20
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 1434
+        width: 152
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e66f92ba66e7a00800000000000000
+      internalID: 756154672774278758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_21
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 1431
+        width: 108
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eae8b3558092650800000000000000
+      internalID: 6208502723471388180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_22
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 1428
+        width: 62
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c852a794532fe6390800000000000000
+      internalID: -7823049192016042612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_23
+      rect:
+        serializedVersion: 2
+        x: 5753
+        y: 1434
+        width: 67
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fbdfa602fe5c380800000000000000
+      internalID: -8951485761815986355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_24
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 184
+        width: 548
+        height: 652
+      alignment: 9
+      pivot: {x: 0.44158065, y: 0.4292503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8c01229c2d1c5f0800000000000000
+      internalID: -738077102610265904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_25
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 199
+        width: 537
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceccbaba0c4a8840800000000000000
+      internalID: 5227073926483201733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crispunkBombaItem_34
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 441
+        width: 76
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b001924be6443320800000000000000
+      internalID: 2536730466364489913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
