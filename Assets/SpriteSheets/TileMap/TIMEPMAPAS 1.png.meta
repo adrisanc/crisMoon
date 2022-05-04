@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: 9ded3c82d6528aa4197f5d2084c7f1c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1862607981928300836
+    second: TIMEPMAPAS 1_0
+  - first:
+      213: -2578461556678724128
+    second: TIMEPMAPAS 1_1
+  - first:
+      213: -4521215118945187767
+    second: TIMEPMAPAS 1_2
+  - first:
+      213: -2951587269505564824
+    second: TIMEPMAPAS 1_3
+  - first:
+      213: -5176841704775603422
+    second: TIMEPMAPAS 1_4
+  - first:
+      213: -487596971700984460
+    second: TIMEPMAPAS 1_5
+  - first:
+      213: 2518738504239586677
+    second: TIMEPMAPAS 1_6
+  - first:
+      213: 3032776401446777419
+    second: TIMEPMAPAS 1_7
+  - first:
+      213: 52655553882763496
+    second: TIMEPMAPAS 1_8
+  - first:
+      213: -6950919157117122057
+    second: TIMEPMAPAS 1_9
+  - first:
+      213: 6923258255786850896
+    second: TIMEPMAPAS 1_10
+  - first:
+      213: -8638327814426380777
+    second: TIMEPMAPAS 1_11
+  - first:
+      213: 3085169800150749253
+    second: TIMEPMAPAS 1_12
+  - first:
+      213: 6074309871937997543
+    second: TIMEPMAPAS 1_20
+  - first:
+      213: -6638292453768522700
+    second: TIMEPMAPAS 1_21
+  - first:
+      213: -4354585850099714890
+    second: TIMEPMAPAS 1_22
+  - first:
+      213: 1905192283868257122
+    second: TIMEPMAPAS 1_23
+  - first:
+      213: -5667530578158535282
+    second: TIMEPMAPAS 1_24
+  - first:
+      213: -2223471381636804223
+    second: TIMEPMAPAS 1_25
+  - first:
+      213: -3928925554102462553
+    second: TIMEPMAPAS 1_26
+  - first:
+      213: -3479371009676800605
+    second: TIMEPMAPAS 1_27
+  - first:
+      213: -6043295503508141187
+    second: TIMEPMAPAS 1_28
+  - first:
+      213: -7525695864124474432
+    second: TIMEPMAPAS 1_29
+  - first:
+      213: 4214538458143234021
+    second: TIMEPMAPAS 1_30
+  - first:
+      213: 4766651473622071837
+    second: TIMEPMAPAS 1_31
+  - first:
+      213: -2740979503308852221
+    second: TIMEPMAPAS 1_32
+  - first:
+      213: -7269467348315465474
+    second: TIMEPMAPAS 1_33
+  - first:
+      213: 566410491351480340
+    second: TIMEPMAPAS 1_34
+  - first:
+      213: 7887245155200364107
+    second: TIMEPMAPAS 1_35
+  - first:
+      213: 4862091058799202837
+    second: TIMEPMAPAS 1_36
+  - first:
+      213: -9147521335137096622
+    second: TIMEPMAPAS 1_37
+  - first:
+      213: 2294087586375341134
+    second: TIMEPMAPAS 1_38
+  - first:
+      213: -7038817735070352189
+    second: TIMEPMAPAS 1_39
+  - first:
+      213: -1090245104069940001
+    second: TIMEPMAPAS 1_40
+  - first:
+      213: 9128333336156211526
+    second: TIMEPMAPAS 1_41
+  - first:
+      213: 6593003848145541708
+    second: TIMEPMAPAS 1_42
+  - first:
+      213: -66651617035088533
+    second: TIMEPMAPAS 1_43
+  - first:
+      213: 5555590717837066344
+    second: TIMEPMAPAS 1_44
+  - first:
+      213: -8315893817226246222
+    second: TIMEPMAPAS 1_45
+  - first:
+      213: -3577972588828854649
+    second: TIMEPMAPAS 1_46
+  - first:
+      213: -9113885668688352250
+    second: TIMEPMAPAS 1_47
+  - first:
+      213: -2020032021151260353
+    second: TIMEPMAPAS 1_48
+  - first:
+      213: 1036843096534628733
+    second: TIMEPMAPAS 1_49
+  - first:
+      213: -4880579149861807816
+    second: TIMEPMAPAS 1_50
+  - first:
+      213: 1346343142560181967
+    second: TIMEPMAPAS 1_51
+  - first:
+      213: -6416348081763936472
+    second: TIMEPMAPAS 1_52
+  - first:
+      213: -4533834748047799464
+    second: TIMEPMAPAS 1_53
+  - first:
+      213: 8103280162046963515
+    second: TIMEPMAPAS 1_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2787
+        width: 670
+        height: 1228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c4ae471059d910800000000000000
+      internalID: 1862607981928300836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_1
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2535
+        width: 1056
+        height: 1398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5f92f10e6773cd0800000000000000
+      internalID: -2578461556678724128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_2
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3173
+        width: 1102
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488522cdca6141c0800000000000000
+      internalID: -4521215118945187767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_3
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 3683
+        width: 278
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f3e8d340bd907d0800000000000000
+      internalID: -2951587269505564824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_4
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 3175
+        width: 418
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b2c68c5e92828b0800000000000000
+      internalID: -5176841704775603422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_5
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 2659
+        width: 442
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e43c3325bb39f0800000000000000
+      internalID: -487596971700984460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_6
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 2663
+        width: 960
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d9c43235b54f220800000000000000
+      internalID: 2518738504239586677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2027
+        width: 630
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b423c6b9116961a20800000000000000
+      internalID: 3032776401446777419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_8
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2147
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e032a082f11bb000800000000000000
+      internalID: 52655553882763496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_9
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1895
+        width: 262
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f98399aadf598f90800000000000000
+      internalID: -6950919157117122057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_10
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 1533
+        width: 1374
+        height: 964
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a3770e3ba541060800000000000000
+      internalID: 6923258255786850896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 998
+        width: 742
+        height: 785
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7163dbfde9e7e1880800000000000000
+      internalID: -8638327814426380777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_12
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1525
+        width: 984
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409fb95699b0da20800000000000000
+      internalID: 3085169800150749253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_37
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 877
+        width: 688
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ca8d3bfc97d0180800000000000000
+      internalID: -9147521335137096622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_48
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 1003
+        width: 238
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f316d50549767f3e0800000000000000
+      internalID: -2020032021151260353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_49
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1003
+        width: 238
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7933c88d4b936e00800000000000000
+      internalID: 1036843096534628733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_50
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 1005
+        width: 236
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8391f422f13b44cb0800000000000000
+      internalID: -4880579149861807816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_51
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 999
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce251674fb2fa210800000000000000
+      internalID: 1346343142560181967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 109
+        width: 1251
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82793373a6d84f6a0800000000000000
+      internalID: -6416348081763936472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_53
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 111
+        width: 778
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bc94461559411c0800000000000000
+      internalID: -4533834748047799464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIMEPMAPAS 1_54
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 95
+        width: 1598
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6746df52a47070800000000000000
+      internalID: 8103280162046963515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
