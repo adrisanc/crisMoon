@@ -11,17 +11,30 @@ public class PlayerMovement : MonoBehaviour
     private BoxCollider2D boxcollider;
     private float wallJumpCooldown;
     private float horizontalInput;
+    public int maxHealth = 100;
+    public int currentHealth;
+    public HealthBar healthBar;
 
+
+  
     private void Awake()
     {   
         //get references from game object
         body = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         boxcollider = GetComponent<BoxCollider2D>();
+        currentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
     }
 
     private void Update()
     {
+
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+            TakeDamage(20);
+        }
+
         horizontalInput = Input.GetAxis("Horizontal");
         
         if (horizontalInput > 0.01f)
@@ -100,4 +113,10 @@ public class PlayerMovement : MonoBehaviour
         return raycastHit.collider != null;
     }
 
+
+    public void TakeDamage(int damage)
+    {
+        currentHealth -= damage;
+        healthBar.SetHealth(currentHealth);
+    }
 }
